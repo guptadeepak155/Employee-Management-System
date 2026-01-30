@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background: linear-gradient(to right, 
+  #ff4e50,  /* Red */
+  #ffa500,  /* Orange */
+  #ffee58,  /* Yellow */
+  #4caf50,  /* Green */
+  #2196f3,  /* Blue */
+  #7e57c2,  /* Indigo */
+  #ba68c8   /* Violet */
+);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
