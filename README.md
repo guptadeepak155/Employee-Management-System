@@ -1,2 +1,27 @@
-# Employee-Management-System
-I developed an Employee Management System to simplify HR tasks—track attendance, manage leaves, monitor performance, and generate reports effortlessly. With a clean interface and secure access, it keeps employee data organized, saves time, and helps companies manage their workforce smarter and faster.
+Employee Management System
+
+Employee Management System is a platform that simplifies HR tasks. It allows tracking attendance, managing leaves, monitoring performance, and generating reports efficiently. The system is secure, user-friendly, and designed to help organizations manage their workforce effectively.
+
+Features
+
+Add, update, and delete employee records
+
+Track attendance and manage leaves
+
+Monitor employee performance
+
+Generate detailed reports
+
+Secure role-based access
+
+Automated notifications
+
+Tech Stack
+
+Frontend: [e.g., React, Flutter, HTML/CSS/JS]
+
+Backend: [e.g., Node.js, Django, Spring Boot]
+
+Database: [e.g., MongoDB, MySQL]
+
+Authentication: Secure login with role-based access
